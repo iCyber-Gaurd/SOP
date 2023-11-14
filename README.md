@@ -17,7 +17,7 @@ Standard Operating Procedure
 <br>
 [SOP 8: Remote, Offsite Support Engagements](https://docs.google.com/document/d/1vPckHjCvbQ7N9OH1-1Jr_FYhfIG5KtxZZmBlwDJ0CpY/edit?usp=drive_link)
 <br>
-[SOP 9:Securing Windows 10 EndPoint Workstations ](https://docs.google.com/document/d/1U44LowomBuQHYmjredtO3argg8Zczejhc40Qt189FKY/edit?usp=drive_link)
+[SOP 9: Securing Windows 10 EndPoint Workstations ](https://docs.google.com/document/d/1U44LowomBuQHYmjredtO3argg8Zczejhc40Qt189FKY/edit?usp=drive_link)
 <br>
 [SOP 10: Administering and Supporting Windows Systems ](https://docs.google.com/document/d/1a2b7YZEIvijDvE_KYHxxa39C82THyoiiy93MBUGHL1g/edit?usp=drive_link)
 <br>
